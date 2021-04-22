@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JustNikhill
+- 👋 Hi, I’m Nikhil
 - 👀 I’m interested in programming in Python, JavaScript, HTML
 - 🌱 I’m currently learning unity, c#
 - 💞️ I’m looking to collaborate on ...
