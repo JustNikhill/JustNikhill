@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nikhil 
-- DO WHAT EXITES
+- DO WHAT EXCITES
 - 📫 How to reach me ...You can reach me at nkrider27@gmail.com
 
 ### SKILLS
