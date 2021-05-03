@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Nikhil 
 - DO WHAT EXCITES
-- 📫 How to reach me ...You can reach me at nkrider27@gmail.com
+- 🤖 Hi, I’m Nikhil 
+- 📫 You can reach me at nkrider27@gmail.com
 
 ### SKILLS
 
