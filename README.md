@@ -14,23 +14,23 @@
 - Android Studio
 
 ### WORK EXPERIENCE             
--Virtual Internship in  MICROSOFT
--Virtual Internship in DELOITTE
+- Virtual Internship in  MICROSOFT
+- Virtual Internship in DELOITTE
 -Freelancer
--Have own start up 
+- Have own start-up 
 
 
 ### CERTIFICATES (ONLY 2021)
 -MICROSOFT Internship
 -DELOITTE Internship 
--HACKERRANK Project Euler+, RANK 635 among 200000
--HACKERRANK Python skill test 
--HACKERRANK Java skill test
--HACKERRANK Problem solving test 
--UDEMY JavaScript-Basics to advance 
--UDEMY Professional Web developent with Scratch
--UDEMY Trading card game with UNITY 3D
--UDEMY Complete introduction to cyber security 
+- HACKERRANK Project Euler+, RANK 635 among 200000
+- HACKERRANK Python skill test 
+- HACKERRANK Java skill test
+- HACKERRANK Problem solving test 
+- UDEMY JavaScript-Basics to advance 
+- UDEMY Professional Web development with Scratch
+- UDEMY Trading card game with UNITY 3D
+- UDEMY Complete introduction to  CYBERSECURITY
 
 
 ### GITHUB STATS
