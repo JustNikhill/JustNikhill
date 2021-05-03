@@ -2,6 +2,26 @@
 - 🤖 Hi, I’m Nikhil 
 - 📫 You can reach me at nkrider27@gmail.com
 
+### WORK EXPERIENCE             
+- Virtual Internship in  MICROSOFT
+- Virtual Internship in DELOITTE
+- Freelancer
+- Have own start-up 
+
+
+### CERTIFICATES (IN 2021)
+- MICROSOFT Internship
+- DELOITTE Internship 
+- HACKERRANK Project Euler+, RANK 635 among 200000
+- HACKERRANK Python skill test 
+- HACKERRANK Java skill test
+- HACKERRANK Problem solving test 
+- UDEMY JavaScript-Basics to advance 
+- UDEMY Professional Web development with Scratch
+- UDEMY Trading card game with UNITY 3D
+- UDEMY Complete introduction to  CYBERSECURITY
+
+
 ### SKILLS
 
 - Python
@@ -9,6 +29,7 @@
 - HTML
 - CSS
 - C++
+
 ### CURRENTLY LEARNING
 - Unity
 - Android Studio
