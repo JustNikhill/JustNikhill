@@ -16,13 +16,13 @@
 ### WORK EXPERIENCE             
 - Virtual Internship in  MICROSOFT
 - Virtual Internship in DELOITTE
--Freelancer
+- Freelancer
 - Have own start-up 
 
 
-### CERTIFICATES (ONLY 2021)
--MICROSOFT Internship
--DELOITTE Internship 
+### CERTIFICATES (IN 2021)
+- MICROSOFT Internship
+- DELOITTE Internship 
 - HACKERRANK Project Euler+, RANK 635 among 200000
 - HACKERRANK Python skill test 
 - HACKERRANK Java skill test
