@@ -13,6 +13,26 @@
 - Unity
 - Android Studio
 
+### WORK EXPERIENCE             
+-Virtual Internship in  MICROSOFT
+-Virtual Internship in DELOITTE
+-Freelancer
+-Have own start up 
+
+
+### CERTIFICATES (ONLY 2021)
+-MICROSOFT Internship
+-DELOITTE Internship 
+-HACKERRANK Project Euler+, RANK 635 among 200000
+-HACKERRANK Python skill test 
+-HACKERRANK Java skill test
+-HACKERRANK Problem solving test 
+-UDEMY JavaScript-Basics to advance 
+-UDEMY Professional Web developent with Scratch
+-UDEMY Trading card game with UNITY 3D
+-UDEMY Complete introduction to cyber security 
+
+
 ### GITHUB STATS
 
 ![NIKHIL'S STATS](https://github-readme-stats.vercel.app/api?username=JustNikhill&count_private=true&show_icons=true&theme=radical)
