@@ -2,6 +2,19 @@
 - 🤖 Hi, I’m Nikhil 
 - 📫 You can reach me at nkrider27@gmail.com
 
+### SKILLS
+
+- Python
+- JavaScript
+- HTML
+- CSS
+- C++
+- SQL
+
+### CURRENTLY LEARNING
+- Unity
+- Android Studio
+
 ### WORK EXPERIENCE             
 - Virtual Internship in  MICROSOFT
 - Virtual Internship in DELOITTE
@@ -20,20 +33,6 @@
 - UDEMY Professional Web development with Scratch
 - UDEMY Trading card game with UNITY 3D
 - UDEMY Complete introduction to  CYBERSECURITY
-
-
-### SKILLS
-
-- Python
-- JavaScript
-- HTML
-- CSS
-- C++
-
-### CURRENTLY LEARNING
-- Unity
-- Android Studio
-
 
 
 ### GITHUB STATS
