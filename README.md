@@ -4,7 +4,7 @@
 
 ### SKILLS
 
-- Python
+- Python (PRO)
 - JavaScript
 - HTML
 - CSS
