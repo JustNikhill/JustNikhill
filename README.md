@@ -10,6 +10,7 @@
 - CSS
 - C++
 - SQL
+- Kali Linux (BASICS)
 
 ### CURRENTLY LEARNING
 - Unity
