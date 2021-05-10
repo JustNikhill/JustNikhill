@@ -26,6 +26,7 @@
 ### CERTIFICATES (IN 2021)
 - MICROSOFT Internship
 - DELOITTE Internship 
+- NASA - Scientist of the day 
 - HACKERRANK Project Euler+, RANK 635 among 200000
 - HACKERRANK Python skill test 
 - HACKERRANK Java skill test
