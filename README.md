@@ -6,8 +6,7 @@
 
 - Python (PRO)
 - JavaScript
-- HTML
-- CSS
+- HTML/CSS
 - C++
 - SQL
 - Kali Linux (BASICS)
