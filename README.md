@@ -7,6 +7,9 @@
 - Python (PRO)
 - JavaScript
 - HTML/CSS
+- Deep Learning 
+- Artificial intelligence 
+- Machine Learning 
 - C++
 - SQL
 - Kali Linux (BASICS)
@@ -30,10 +33,7 @@
 - HACKERRANK Python skill test 
 - HACKERRANK Java skill test
 - HACKERRANK Problem solving test 
-- UDEMY JavaScript-Basics to advance 
-- UDEMY Professional Web development with Scratch
-- UDEMY Trading card game with UNITY 3D
-- UDEMY Complete introduction to  CYBERSECURITY
+- UDEMY JavaScript, Web development, unity, Java, Cyber security 
 
 
 ### GITHUB STATS
