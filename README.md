@@ -28,6 +28,7 @@
 ### CERTIFICATES (IN 2021)
 - MICROSOFT Internship
 - DELOITTE Internship 
+- UNIVERSITY OF MICHIGEN - Python(specilization)
 - NASA - Scientist of the day 
 - HACKERRANK Project Euler+, RANK 475 among 200000
 - HACKERRANK Python skill test 
