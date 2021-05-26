@@ -2,10 +2,10 @@
 - 🤖 Hi, I’m Nikhil 
 - 📫 You can reach me at nkrider27@gmail.com
 
-### SKILLS                                                               CURRENTLY LEARNING
+### SKILLS                                                               
 
-- Python (PRO)                                                              - Unity 
-- JavaScript                                                                - Android Studio
+- Python (PRO)                                                              
+- JavaScript                                                                
 - HTML/CSS
 - Deep Learning 
 - Artificial intelligence 
