@@ -1,5 +1,5 @@
 - DO WHAT EXCITES
-- 🤖 Hi, I’m Nikhil :yum:
+- 🤖 Hi, I’m Nikhil 
 - 📫 You can reach me at nkrider27@gmail.com
 
 ### SKILLS                                                               
