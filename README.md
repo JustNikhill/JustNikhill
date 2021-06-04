@@ -1,6 +1,8 @@
 - DO WHAT EXCITES
 - 🤖 Hi, I’m Nikhil 
 - 📫 You can reach me at nkrider27@gmail.com
+### SOCIAL
+![S](https://img.shields.io/badge/-Hackerrank-https://www.hackerrank.com/JustNikhil?hr_r=1?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ### SKILLS                                                               
 
@@ -36,6 +38,7 @@
 
 ### GITHUB STATS
 ![NIKHIL'S STATS](https://github-readme-stats.vercel.app/api?username=JustNikhill&count_private=true&show_icons=true&theme=radical) 
+### LANGS
 ![TOP LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=JustNikhill&show_icons=true&theme=radical)
                   
                  
