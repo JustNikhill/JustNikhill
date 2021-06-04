@@ -15,11 +15,12 @@
 ![lang](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![lang](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
-### WORK EXPERIENCE             
+### WORK EXPERIENCE     
+- founder CEO of GrowMore![l](https://justnikhill.github.io/GrowMore.github.io/)
 - Virtual Internship in  MICROSOFT
 - Virtual Internship in DELOITTE
 - Freelancer
-- Have own start-up 
+
 
 
 ### CERTIFICATES (IN 2021)
