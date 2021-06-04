@@ -2,7 +2,7 @@
 - 🤖 Hi, I’m Nikhil 
 - 📫 You can reach me at nkrider27@gmail.com
 ### SOCIAL
-![S](https://img.shields.io/badge/-Hackerrank-2EC866https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white?style=for-the-badge&logo=HackerRank&logoColor=white)
+![S](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ### SKILLS                                                               
 
