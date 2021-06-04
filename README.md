@@ -1,6 +1,7 @@
 - DO WHAT EXCITES
 - 🤖 Hi, I’m Nikhil 
 - 📫 You can reach me at nkrider27@gmail.com
+- ![icon](https://img.shields.io/badge/-https://www.hackerrank.com/JustNikhil?hr_r=1-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 
 ### SKILLS                                                               
 
