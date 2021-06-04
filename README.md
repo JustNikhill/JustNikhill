@@ -1,7 +1,7 @@
 - DO WHAT EXCITES
 - 🤖 Hi, I’m Nikhil 
 - 📫 You can reach me at nkrider27@gmail.com
-- ![icon](https://www.hackerrank.com/JustNikhil?hr_r=1)
+
 
 ### SKILLS                                                               
 
