@@ -12,9 +12,15 @@
 ![lang](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![lang](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![lang](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![lang](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![lang](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![lang](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![lang](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![lang](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![lang](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![lang](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![lang](https://img.shields.io/badge/-Hackerrank-2EC866/?https://www.hackerrank.com/JustNikhil?hr_r=1style=for-the-badge&logo=HackerRank&logoColor=white)
+
 
 ### WORK EXPERIENCE     
 - founder CEO of GrowMore
