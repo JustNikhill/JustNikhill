@@ -19,8 +19,6 @@
 ![lang](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![lang](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![lang](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![lang](https://img.shields.io/badge/-Hackerrank-2EC866/?https://www.hackerrank.com/JustNikhil?hr_r=1style=for-the-badge&logo=HackerRank&logoColor=white)
-
 
 ### WORK EXPERIENCE     
 - founder CEO of GrowMore
