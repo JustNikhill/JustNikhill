@@ -1,4 +1,4 @@
-[![Social banner for jh3y](https://github.com/jh3y/jh3y/raw/master/assets/Hi,I am Nikhil)](https://justnikhill.github.io/)
+[![Social banner for JustNikhill](https://github.com/JustNikhill/JustNikhill/raw/master/assets/Hi,I am Nikhil to Sandy Spring!(1.png)")]<img src="Hi, I am Nikhil to Sandy Spring!(1.png)"
 <h1 align='center'> Hi! :wave:</h1>
 <p align='center'>
 I'm Nikhil.
