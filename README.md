@@ -1,8 +1,7 @@
-[![Social banner for JustNikhill](https://github.com/JustNikhill/JustNikhill/raw/master/assets/Hi,I am Nikhil to Sandy Spring!(1.png)")]<img src="Hi, I am Nikhil to Sandy Spring!(1.png)"
-<h1 align='center'> Hi! :wave:</h1>
-<p align='center'>
-I'm Nikhil.
-</p>
-<p align='center'>For enquiries, reach out @https://justnikhill.github.io/ or over on <a href="https://www.linkedin.com/in/nikhil-yadav-609435203/">LinkedIn</a>.</p>
+  <!-- Hi there! Feel free to make this your own but don't use my data -->
+  
+<div align="center">
+  <a href="https://justnikhill.github.io/"><img src="images/Hi, I am Nikhil to Sandy Spring! (1)" alt="Ajulu's Header"></a>
 
-<h1 align='center'><i>Stay awesome!</i></h1>
+  <br>
+  
