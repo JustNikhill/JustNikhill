@@ -26,4 +26,4 @@
 ![l](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ### GITHUB STATS
-![NIKHIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustNikhill&show_icons=true&theme=radical)
+![nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustNikhill&show_icons=true)
