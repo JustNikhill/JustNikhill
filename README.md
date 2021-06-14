@@ -24,3 +24,6 @@
 ![l](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![l](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![l](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### GITHUB STATS
+![NIKHIL's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustNikhill&show_icons=true&theme=radical)
