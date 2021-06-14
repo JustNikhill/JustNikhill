@@ -27,4 +27,5 @@
 
 ### GITHUB STATS
 ![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustNikhill&show_icons=true&theme=tokyonight)
-
+### TOP LANGUAGES 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustNikhill&theme=tokyonight)
