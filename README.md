@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
-<h3 align="center">founder CEO at GrowMore| Freelancer| Student developer</h3>
+<h3 align="center">founder CEO at GrowMore| Freelancer| Student developer
+                       DO WHAT EXCITES </h3>
 
 
 
