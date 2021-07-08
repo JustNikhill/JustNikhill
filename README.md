@@ -35,6 +35,9 @@
 - Virtual Intern at Microsoft
 - Virtal Intern at Deloitte
 
+ <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
+</div>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JustNikhill&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nikhil" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JustNikhill&show_icons=true&locale=en&theme=tokyonight" alt="Nikhil" width="410" /></p>
