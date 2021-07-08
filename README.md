@@ -5,7 +5,7 @@
 <h3 align="center">founder CEO at GrowMore| Freelancer| Student developer </h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=JustNikhill&label=Profile%20views&color=0e75b6&style=flat" alt="Nikhil Yadav" /> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nikhil-yadav-609435203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nikhil-yadav-609435203/" height="30" width="40" /></a>
@@ -36,6 +36,6 @@
 - Virtal Intern at Deloitte
 
 ### GITHUB STATS
-![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustNikhill&show_icons=true&theme=tokyonight)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JustNikhill&hide=css,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nikhil" /></p>
 ### TOP LANGUAGES 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustNikhill&theme=radical)
