@@ -35,7 +35,5 @@
 - Virtual Intern at Microsoft
 - Virtal Intern at Deloitte
 
-### GITHUB STATS
+![Nikhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=JustNikhill&show_icons=true&theme=tokyonight)
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JustNikhill&hide=css,html&show_icons=true&locale=en&layout=compact&theme=radical" alt="Nikhil" /></p>
-### TOP LANGUAGES 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JustNikhill&theme=radical)
