@@ -5,6 +5,8 @@
 <h3 align="center">founder CEO at GrowMore| Freelancer| Student developer </h3>
 
 ![](https://komarev.com/ghpvc/?username=your-github-JustNikhill&color=brightgreen)
+[![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JustNikhill?tab=followers)
+
 
 
 <h3 align="left">Connect with me:</h3>
