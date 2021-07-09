@@ -4,8 +4,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">founder CEO at GrowMore| Freelancer| Student developer </h3>
 
-![profile viewd](https://komarev.com/ghpvc/?JustNikhill&color=ff69b4)
-
+![](https://komarev.com/ghpvc/?username=your-github-JustNikhill&label=PROFILE+VIEWS)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
