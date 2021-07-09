@@ -49,7 +49,7 @@
 </div>
 
 
-Here are some [🦜 parrots]
+Here are some parrots🦜
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
