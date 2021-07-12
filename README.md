@@ -49,7 +49,7 @@
 
 ### Recent repo
 <p align="left">
-  <a href="https://github.com/JustNikhill/github-unfollow-follow-"><img width="282" src="https://github.com/JustNikhill/github-unfollow-follow-.vercel.app/api/pin/?username=JustNikhill&repo=github-follow-unfollow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streahttps://github.com/JustNikhill/github-unfollow-follow-k-stats"></a>
+  <a href="https://github.com/JustNikhill/github-unfollow-follow-"><img width="282" src="https://github.com/JustNikhill/github-unfollow-follow-.vercel.app/api/pin/?username=JustNikhill&repo=github-follow-unfollow&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="github-readme-streahttps://github.com/JustNikhill/github-unfollow-follow-"></a>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
