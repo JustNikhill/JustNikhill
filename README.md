@@ -3,7 +3,11 @@
 
 <h1 align="center">Hi 👋, I'm Nikhil</h1>
 <h3 align="center">founder CEO at GrowMore| Freelancer| Student developer </h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=17+y%2Fo+developer;Founder+CEO+of+GrowMore;Freelancer;Tennis+player+)](https://git.io/typing-svg)
+ 
+<p align="center">
+  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=17+y%2Fo+developer;Founder+CEO+of+GrowMore;Freelancer;Tennis+player+)](https://git.io/typing-svg"></a>
+</p>
+
 
 ![](https://komarev.com/ghpvc/?username=your-github-JustNikhill&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/JustNikhill.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JustNikhill?tab=followers)
