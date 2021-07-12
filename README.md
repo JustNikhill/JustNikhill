@@ -6,6 +6,8 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-JustNikhill&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/JustNikhill.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JustNikhill?tab=followers)
+ <a href="https://github.com/JustNikhill/Simple-View-Counter">
+    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/JustNikhill-profile-views"/></a>
 
 
 
