@@ -49,7 +49,7 @@
 
 ### Recent repo
 <a href="https://github.com/JustNikhill/github-unfollow-follow-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustNikhill&repo=github-unfollow-follow-&theme=Gradient" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustNikhill&repo=github-unfollow-follow-&theme=dracula" />
 </a>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
