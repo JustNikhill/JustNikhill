@@ -5,7 +5,7 @@
 <h3 align="center">founder CEO at GrowMore| Freelancer| Student developer </h3>
  
 <p align="center">
-  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=17+y%2Fo+developer;Founder+CEO+at+GrowMore;Freelancer;Tennis+Player"></a>
+  <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+GrowMore;Freelancer;Tennis+Player"></a>
 </p>
 
 
