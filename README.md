@@ -6,8 +6,7 @@
 
 ![](https://komarev.com/ghpvc/?username=your-github-JustNikhill&color=brightgreen)
 [![GitHub followers](https://img.shields.io/github/followers/JustNikhill.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/JustNikhill?tab=followers)
- <a href="https://github.com/JustNikhill/Simple-View-Counter">
-    <img alt="views" title="GitHub profile views" src="https://freshidea.com/jonah/app/JustNikhill-profile-views"/></a>
+
 
 
 
@@ -51,7 +50,7 @@
 
 ### Recent repo
 <a href="https://github.com/JustNikhill/github-unfollow-follow-">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustNikhill&repo=github-unfollow-follow-&theme=synthwave" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustNikhill&repo=github-unfollow-follow-&theme=react&bg_color" />
 </a>
 
  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
