@@ -39,7 +39,7 @@
 ![l](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
 ### Work experience
-- founder CEO of GrowMore
+- Founder CEO at GrowMore
 - Freelancer
 - Virtual Intern at Microsoft
 - Virtal Intern at Deloitte
