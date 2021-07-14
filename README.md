@@ -1,7 +1,7 @@
 ![image](https://github.com/JustNikhill/JustNikhill/blob/main/Nikhilgithub.png?raw=true)
 
 
-<h1 align="center">Hi 👋, I'm Nikhil</h1>
+<h1 align="center">Hi 👋 ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" , I'm Nikhil</h1>
 <h3 align="center">founder CEO at GrowMore| Freelancer| Student developer </h3>
  
 <p align="center">
