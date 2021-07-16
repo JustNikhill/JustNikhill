@@ -8,8 +8,6 @@
   <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+GrowMore;Freelancer;Tennis+Player"></a>
 </p>
 
-![](https://komarev.com/ghpvc/?username=JustNikhill&color=green)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
