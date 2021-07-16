@@ -10,8 +10,6 @@
 
 
 ![](https://komarev.com/ghpvc/?username=your-github-JustNikhill&color=brightgreen)
-[![GitHub followers](https://img.shields.io/github/followers/JustNikhill.svg?style=social](https://github.com/JustNikhill?tab=followers)
-
 
 
 
