@@ -36,8 +36,7 @@
 
 ### Work experience
 - Founder CEO at GrowMore
-- Freelancer
-- Virtual Intern at Microsoft
+- Intern at Microsoft
 - Virtal Intern at Deloitte
 
  <img align="right" height="80em" src="https://i.pinimg.com/originals/4a/ff/a0/4affa0f1f9da41409869f7da57e0f88c.gif" >
