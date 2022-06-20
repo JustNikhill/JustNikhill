@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋 ! I'm Nikhil</h1>
-<h3 align="center">Founder CEO at GrowMore|Freelancer|Student developer </h3>
+<h3 align="center">Founder CEO at GrowMore|Student developer </h3>
  
 <p align="center">
   <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Founder+CEO+at+GrowMore;Freelancer;Tennis+Player"></a>
