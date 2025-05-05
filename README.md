@@ -72,7 +72,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=JustNikhill&repo=Black-Hole-&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false"" />
 </a>
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
  
 </div>
 
