@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋 ! I'm Nikhil</h1>
-<h3 align="center">Founder CEO at Lume media|Student developer </h3>
+<h3 align="center">Founder CEO at Lume media| Student developer </h3>
  
 <p align="center">
   <a href="https://github.com/JustNikhill/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Founder+at+Lume+media;Professional+Tennis+Player+"></a>
