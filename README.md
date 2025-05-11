@@ -33,7 +33,7 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Work experience
-- Founder CEO at Lumemedia
+- Founder at Lumemedia
 - Front-end developer at Hallery.art
 - Intern at Microsoft
 - Virtal Intern at Deloitte
